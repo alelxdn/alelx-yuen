@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alelx-yuen
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning about mechatronics engineering
-- 📫 How to reach me ...
+- 🌱 I’m currently an undergraduate mechatronics engineer
+- 📫 I'm currently learning about control systems and robotic vision
 
 <!---
 alelx-yuen/alelx-yuen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

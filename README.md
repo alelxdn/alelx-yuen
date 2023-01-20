@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alelx-yuen
+- 👋 Hi, I’m @alelxdn
 - 👀 I’m interested in robotics
 - 🌱 I’m currently an undergraduate mechatronics engineer
 - 📫 I'm currently learning about autonomous systems
